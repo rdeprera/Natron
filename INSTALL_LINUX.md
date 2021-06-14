@@ -184,7 +184,7 @@ Natron's nodes are contained in separate repositories. To use the default nodes,
 
 #### Install via Apt: ppa:xorg-edgers/ppa 
 ~~~shell
-sudo apt install openfx-io-natron openfx-misc-natron
+sudo apt install openfx-io-natron openfx-misc-natron opencolorio-configs-natron
 ~~~
 
 #### Install via Build
